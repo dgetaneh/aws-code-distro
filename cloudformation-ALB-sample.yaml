@@ -1,5 +1,7 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Description: VPC with ALB, NAT Gateway, and Web Servers in Private Subnets
+# Author: Dereje
+# Date: 2023-08-22
 
 Parameters:
   KeyName:
